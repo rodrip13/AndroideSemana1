@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppGenda</string>
+    <string name="nombre">Rodrigo Peralta</string>
+    <string name="telefono">098895881</string>
+    <string name="fechaNacimiento">18-12-1991</string>
+    <string name="email">rodrip137@gmail.com</string>
+    <string name="descripcion">ESta app es una buen desafio para ver si me interesa en algo Android y todo su mundo que cambia todos los dias</string>
+</resources>
